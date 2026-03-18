@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "SafeDM\\x64\\Debug\\login.h.obj",
+            "outputs": [
+                "C:\\Users\\Strajja\\Desktop\\SafeDM\\SafeDM\\SafeDM\\x64\\Debug\\vc145.pdb",
+                "SafeDM\\x64\\Debug\\",
+                "C:\\Users\\Strajja\\Desktop\\SafeDM\\SafeDM\\SafeDM\\x64\\Debug\\login.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "login.h",
+                    "source-path": "c:\\users\\strajja\\desktop\\safedm\\safedm\\login.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SafeDM.vcxproj" Id="be21e384-2a69-4b3e-9f42-03831a55cf6d" />
+</Solution>

@@ -1,0 +1,6 @@
+﻿  Scanning sources for module dependencies...
+  main.cpp
+C:\Users\Strajja\Desktop\SafeDM\SafeDM\dm.h(39,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  SafeDM.vcxproj -> C:\Users\Strajja\Desktop\SafeDM\SafeDM\x64\Debug\SafeDM.exe

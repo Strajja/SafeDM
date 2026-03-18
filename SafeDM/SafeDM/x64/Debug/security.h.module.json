@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "SafeDM\\x64\\Debug\\security.h.obj",
+            "outputs": [
+                "C:\\Users\\Strajja\\Desktop\\SafeDM - Copy\\SafeDM\\SafeDM\\x64\\Debug\\vc145.pdb",
+                "SafeDM\\x64\\Debug\\",
+                "C:\\Users\\Strajja\\Desktop\\SafeDM - Copy\\SafeDM\\SafeDM\\x64\\Debug\\security.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "security.h",
+                    "source-path": "c:\\users\\strajja\\desktop\\safedm - copy\\safedm\\security.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

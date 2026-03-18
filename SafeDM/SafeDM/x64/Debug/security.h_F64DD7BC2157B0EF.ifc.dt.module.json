@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "SafeDM\\x64\\Debug\\security.obj",
+            "outputs": [
+                "SafeDM\\x64\\Debug\\security.h_F64DD7BC2157B0EF.ifc.dt.module.json",
+                "SafeDM\\x64\\Debug\\security.h_F64DD7BC2157B0EF.ifc.dt.d.json",
+                "SafeDM\\x64\\Debug\\security.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Strajja\\Desktop\\SafeDM\\SafeDM\\security.h",
+                    "source-path": "c:\\users\\strajja\\desktop\\safedm\\safedm\\security.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

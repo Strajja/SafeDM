@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "SafeDM\\x64\\Debug\\login.obj",
+            "outputs": [
+                "SafeDM\\x64\\Debug\\login.h_4299659386F74C6.ifc.dt.module.json",
+                "SafeDM\\x64\\Debug\\login.h_4299659386F74C6.ifc.dt.d.json",
+                "SafeDM\\x64\\Debug\\login.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\stefa\\OneDrive\\Desktop\\SafeDM\\SafeDM\\SafeDM\\login.h",
+                    "source-path": "c:\\users\\stefa\\onedrive\\desktop\\safedm\\safedm\\safedm\\login.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

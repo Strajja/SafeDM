@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "SafeDM\\x64\\Debug\\login.obj",
+            "outputs": [
+                "SafeDM\\x64\\Debug\\login.h_FEB8BA120199E95A.ifc.dt.module.json",
+                "SafeDM\\x64\\Debug\\login.h_FEB8BA120199E95A.ifc.dt.d.json",
+                "SafeDM\\x64\\Debug\\login.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Strajja\\Desktop\\SafeDM\\SafeDM\\login.h",
+                    "source-path": "c:\\users\\strajja\\desktop\\safedm\\safedm\\login.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

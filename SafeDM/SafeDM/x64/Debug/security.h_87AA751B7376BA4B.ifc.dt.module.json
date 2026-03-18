@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "SafeDM\\x64\\Debug\\security.obj",
+            "outputs": [
+                "SafeDM\\x64\\Debug\\security.h_87AA751B7376BA4B.ifc.dt.module.json",
+                "SafeDM\\x64\\Debug\\security.h_87AA751B7376BA4B.ifc.dt.d.json",
+                "SafeDM\\x64\\Debug\\security.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\stefa\\OneDrive\\Desktop\\SafeDM\\SafeDM\\SafeDM\\security.h",
+                    "source-path": "c:\\users\\stefa\\onedrive\\desktop\\safedm\\safedm\\safedm\\security.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
