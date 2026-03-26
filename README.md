@@ -15,10 +15,10 @@ SafeDM is a secure, console-based Direct Messaging application built entirely in
 
 ## 📸 Screenshots
 
-![Beggining](<img width="1919" height="1032" alt="start" src="https://github.com/user-attachments/assets/559e3e00-ebf9-48ec-9401-44f385367b83" />)
-![Registration screen](<img width="1919" height="1033" alt="registration" src="https://github.com/user-attachments/assets/cfe634ac-6c7e-4e24-b7a3-91c49936a331" />)
-![Pre-chat screen](<img width="1919" height="1028" alt="pre_dm" src="https://github.com/user-attachments/assets/2f1f332b-40c8-45a7-9448-223eae4566aa" />)
-![Encrypted File Example](<img width="1919" height="1029" alt="chatting" src="https://github.com/user-attachments/assets/2e4f28fd-58da-4ff2-b6bf-f488a2426a65" />)
+![Beggining] <img width="1919" height="1032" alt="start" src="https://github.com/user-attachments/assets/559e3e00-ebf9-48ec-9401-44f385367b83" />
+![Registration screen] <img width="1919" height="1033" alt="registration" src="https://github.com/user-attachments/assets/cfe634ac-6c7e-4e24-b7a3-91c49936a331" />
+![Pre-chat screen] <img width="1919" height="1028" alt="pre_dm" src="https://github.com/user-attachments/assets/2f1f332b-40c8-45a7-9448-223eae4566aa" />
+![Encrypted File Example] <img width="1919" height="1029" alt="chatting" src="https://github.com/user-attachments/assets/2e4f28fd-58da-4ff2-b6bf-f488a2426a65" />
 
 ## 💻 How to Run
 1. Clone the repository: `git clone https://github.com/Strajja/SafeDM.git`
