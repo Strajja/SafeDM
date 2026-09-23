@@ -1,30 +1,36 @@
-# SafeDM - Encrypted C++ Console Chat Application 🔒
+# SafeDM: Encrypted Console Messaging Application
 
-SafeDM is a secure, console-based Direct Messaging application built entirely in C++. It allows users to create accounts, log in, and exchange encrypted messages in real-time using file-based synchronization.
+SafeDM is a secure, console-based Direct Messaging software developed entirely in standard C++. The application provides user authentication and encrypted message exchange by utilizing a file-based synchronization architecture, operating independently of high-level networking frameworks.
 
-## 🚀 Features
-* **User Authentication:** Secure login and registration system.
-* **Direct Messaging:** Private chat rooms between specific users.
-* **Message Encryption:** All messages are encrypted before being saved to the local disk or shared drive, ensuring privacy.
-* **File-Based Synchronization:** Uses local storage or shared cloud folders (like Google Drive) to sync messages between users on different machines.
+## System Overview
 
-## 🛠️ Technologies Used
-* **Language:** C++ (Standard C++11/14/17)
-* **Concepts:** Object-Oriented Programming (OOP), File I/O (`<fstream>`), Memory Management, Pointers/References.
-* **Data Structures:** Vectors, Maps, and custom classes for user management.
+* **User Authentication:** Manages secure local login and registration credentials.
+* **Peer-to-Peer Chat Rooms:** Establishes isolated direct messaging sessions between specific authenticated users.
+* **Data Encryption:** Applies custom cryptographic algorithms to all message payloads prior to disk storage, ensuring data privacy at rest.
+* **File-Based State Synchronization:** Utilizes local file systems or shared network/cloud directories (e.g., Google Drive) to propagate messages across distributed environments without requiring a dedicated TCP/IP server.
 
-## 📸 Screenshots
+## Technical Specifications
 
-![Beggining] <img width="1919" height="1032" alt="start" src="https://github.com/user-attachments/assets/559e3e00-ebf9-48ec-9401-44f385367b83" />
-![Registration screen] <img width="1919" height="1033" alt="registration" src="https://github.com/user-attachments/assets/cfe634ac-6c7e-4e24-b7a3-91c49936a331" />
-![Pre-chat screen] <img width="1919" height="1028" alt="pre_dm" src="https://github.com/user-attachments/assets/2f1f332b-40c8-45a7-9448-223eae4566aa" />
-![Encrypted File Example] <img width="1919" height="1029" alt="chatting" src="https://github.com/user-attachments/assets/2e4f28fd-58da-4ff2-b6bf-f488a2426a65" />
+* **Language:** C++ (Standard C++11/14/17 compliant)
+* **Architecture:** Object-Oriented Programming (OOP) principles and encapsulation.
+* **Data Persistence:** Advanced utilization of standard file streams (`<fstream>`) for read/write operations, data parsing, and local state management.
+* **Memory & Data Structures:** Implementation of dynamic memory management, pointers/references, and Standard Template Library (STL) containers (`std::vector`, `std::map`) for efficient user and message handling.
+* **Compatibility:** Decoupled from platform-specific dependencies to maintain standard compiler compatibility across operating systems.
 
-## 💻 How to Run
-1. Clone the repository: `git clone https://github.com/Strajja/SafeDM.git`
-2. Compile the source code using any standard C++ compiler (e.g., g++, MSVC).
-3. Run the executable. 
-4. **Note for multiplayer:** To chat with another person, ensure the output `.txt` files are being generated in a shared network folder or a synced cloud directory (like Google Drive).
+## Interface Details
 
-## 🧠 What I Learned
-Through building SafeDM, I deepened my understanding of C++ file streams, custom encryption algorithms, and handling standard input/output efficiently without relying on platform-specific libraries.
+![Start Screen](https://github.com/user-attachments/assets/559e3e00-ebf9-48ec-9401-44f385367b83)
+![Registration Screen](https://github.com/user-attachments/assets/cfe634ac-6c7e-4e24-b7a3-91c49936a331)
+![Pre-chat Screen](https://github.com/user-attachments/assets/2f1f332b-40c8-45a7-9448-223eae4566aa)
+![Encrypted File Example](https://github.com/user-attachments/assets/2e4f28fd-58da-4ff2-b6bf-f488a2426a65)
+
+## Installation and Build Instructions
+
+### Prerequisites
+* A standard C++ compiler (e.g., GCC, Clang, or MSVC)
+* Git
+
+### Build Steps
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Strajja/SafeDM.git](https://github.com/Strajja/SafeDM.git)
